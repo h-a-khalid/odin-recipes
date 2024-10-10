@@ -1,0 +1,13 @@
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e6f7ff;
+}
+
+.heading {
+    color: #001f3f;
+    
+}
+
+.title {
+    text-decoration: underline; 
+}
